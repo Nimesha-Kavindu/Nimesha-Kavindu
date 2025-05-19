@@ -35,9 +35,9 @@
 <h3 align="center">My Statistics:</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimesha-Kavindu&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimesha-Kavindu&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nimesha-Kavindu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
 
 ---
