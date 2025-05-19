@@ -6,16 +6,26 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-- 🔭 I’m currently working on **RTL - Web Development Group**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 💬 Ask me about **Java**
 
-- 💬 Ask me about **JAVA, PYTHON, SQL, MONGO DB**
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
 
-- 📫 How to reach me **nimeshakavindu91@gmail.com**
+</td>
+<td width="50%" align="center">
 
-- ⚡ Fun fact **Call me as Nima🫨**
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ---
 
